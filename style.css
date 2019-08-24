@@ -1,0 +1,288 @@
+
+     
+          
+.mynav{background-color:white !important;
+margin: 0px !important;
+    min-height:10px;
+      font-size: 10px !important;
+}
+
+
+.mynav ul 
+{float: right !important;
+margin-top:auto; 
+}
+          
+.mynav  li {display: inline-block;
+            padding:2px;
+          }
+
+.mynav li a{color:black;
+
+    
+font-size:18px;
+text-decoration:none;}
+.mynav li a:hover
+          {color:greenyellow;}
+
+.mycontainer
+          {width:1140px;
+           margin: 0 auto;}
+.c-container
+           {width:900px;
+             margin: 0 auto;}
+
+.bgimage{background-image: url(../img/banner.jpg);
+         background-repeat: no-repeat;
+         background-size: cover;}
+
+.pos{padding-top: 400px;}
+
+.btn_11{
+        border-bottom-style: hidden;
+        background-color: blueviolet !important;
+        
+}
+hr.style {
+
+    padding: 0;
+    border-style: solid .4px;
+    color: #333;
+    text-align: center;
+}
+hr.style:after {
+    content: "100$ ET PLUS=LIVERASION GRATUITE AU CANADA";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;}
+hr.style_2 {
+
+    padding: 0;
+    border-style: solid .4px;
+    color: #333;
+    text-align: center;
+}
+hr.style_2:after {
+    content: "LA BOUTIQUE";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;}
+
+
+
+
+
+ .heading{text-align: center;
+          font-size: 14px;}
+.align-img{margin-left: 10px;}          
+ 
+.main_txt{ text-align: center;
+    font-size: 12px;
+}
+
+
+
+.banner_1
+   { background-image: url(../img/btn_homme.jpg);
+     height:150px;
+     width:100%;    
+     padding-right: 10px !important;
+     background-size: cover;}
+    
+.banner_2
+   { background-image: url(../img/btn_femme.jpg);
+   height:150px;    
+   width:100%;  
+   background-size:cover;}
+.logo
+ {     
+   width:30%; 
+     float: right !important;
+}
+h2 {color: white !important;
+    text-align:center;
+    padding: 50px;}
+ 
+       h2:hover
+          {font-size: 24px;}
+
+
+.adjust_grid{margin-right:100px !important;
+             align-content: center;
+}
+hr.style_3 {
+
+    padding: 0;
+    border-style: solid .4px;
+    color: #333;
+    text-align: center;
+}
+hr.style_3:after {
+    content: "INSTAKRAM";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;} 
+
+
+
+.image1{background-image: url(../img/product01.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image2{background-image: url(../img/product02.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image3{background-image: url(../img/product03.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image4{background-image: url(../img/product04.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image5{background-image: url(../img/product05.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image6{background-image: url(../img/product06.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image7{background-image: url(../img/product07.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      background-size:cover;}
+.image8{background-image: url(../img/product08.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image9{background-image: url(../img/product09.jpg);
+      height:200px;    
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image10{background-image: url(../img/product10.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image11{background-image: url(../img/product11.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image12{background-image: url(../img/product12.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+
+.image1{background-image: url(../img/product01.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image2{background-image: url(../img/product02.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image3{background-image: url(../img/product03.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image4{background-image: url(../img/product04.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image5{background-image: url(../img/product05.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image6{background-image: url(../img/product06.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image7{background-image: url(../img/product07.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image8{background-image: url(../img/product08.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image9{background-image: url(../img/product09.jpg);
+      height:200px;    
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image10{background-image: url(../img/product10.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image11{background-image: url(../img/product11.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.image12{background-image: url(../img/product12.jpg);
+      height:200px;    
+      width:100%;  
+      padding: 10px !important;
+      margin: 5px !IMPORTANT;
+      background-size:cover;}
+.footer_txt {text-align: left}
+
+
+.footer{background-color:  gainsboro !important;   
+        margin: 0px !important;}
+.last_txt{float:left;
+padding: 10px;}
+.icons{float: right;
+padding: 10px;}
+
